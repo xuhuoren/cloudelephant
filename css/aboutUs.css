@@ -1,0 +1,14 @@
+#banner {
+    background: #dcdcdc;
+    margin-bottom: 2em;
+}
+#content .panel > .panel-heading {
+    background: rgba(0,0,0,0.8);
+    color: white;
+}
+#content img.img-responsive {
+    margin-top: 1em;
+}
+#content .panel {
+    margin-top: 1em;
+}

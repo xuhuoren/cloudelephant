@@ -1,0 +1,16 @@
+#banner {
+    background: #dcdcdc;
+    margin-bottom: 2em;
+}
+#content .tab-content {
+	margin: 1em 0;
+}
+#content > .container > div[role="tabpanel"] {
+	margin-bottom: 2em;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+.panel-primary > .panel-heading {
+	background: rgba(0,0,0,0.8);
+}

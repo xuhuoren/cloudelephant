@@ -1,0 +1,14 @@
+#banner {
+    background: #dcdcdc;
+    margin-bottom: 2em;
+}
+#content .tab-content {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+#appDesign .col-md-3.col-sm-6.col-xs-12 {
+	padding-bottom: 20px;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: rgba(0,0,0,0.8);
+}

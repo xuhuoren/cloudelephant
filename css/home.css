@@ -1,0 +1,19 @@
+.carousel-inner a[role="button"] {
+    margin-bottom: 20px;
+}
+.magnify {
+    font-size: 2.15em;
+}
+.magnify-en {
+    font-family: Consolas,"Times New Roman",Georgia,Serif;
+}
+.no-underline {
+    color: black;
+}
+.no-underline:hover {
+    text-decoration: none;
+}
+#case .row .col-sm-4,.col-xs-6 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
